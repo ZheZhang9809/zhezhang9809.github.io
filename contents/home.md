@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![ZheZhang9809](https://img.shields.io/badge/ZheZhang9809-github-blue?logo=github)](https://github.com/ZheZhang9809)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a doctoral candidate at the School of Artificial Intelligence and Automation at Hohai University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: zhezhang9809[at]hhu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Master of Software Engineering, Inner Mongolia University of Technology, 2021–2024.\
+Bachelor of Science in Computer Science and Technology, Qingdao Binhai University, 2017–2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Time series data forecasting, LLM, Deep Learning, energy forecasting
 
