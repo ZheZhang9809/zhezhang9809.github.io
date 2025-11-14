@@ -6,7 +6,7 @@ He is currently a doctoral candidate at the School of Artificial Intelligence an
 
 #### Contact
 
-Email: zhezhang9809[at]hhu.edu.cn
+Email: zhezhang9809[@]hhu.edu.cn
 
 #### Education
 Master of Software Engineering, Inner Mongolia University of Technology, 2021–2024.\
